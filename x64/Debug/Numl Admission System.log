@@ -1,0 +1,4 @@
+﻿  Numl Admission System.cpp
+D:\Numl Admission System\Numl Admission System.cpp(306,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Numl Admission System\Numl Admission System.cpp(595): warning C4717: 'homepage': recursive on all control paths, function will cause runtime stack overflow
+  Numl Admission System.vcxproj -> D:\Numl Admission System\x64\Debug\Numl Admission System.exe
